@@ -16487,7 +16487,7 @@ footer .widget {
 }
 
 .ColorSwitcher__control {
-  position: absolute;
+  position: '';
   right: 0;
   left: 100%;
   border-radius: 0 3px 3px 0;
